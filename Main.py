@@ -7,4 +7,10 @@
 # Project Description: See the README file
 #############################################
 
-print(team name: badgers)
+print("team name: badgers")
+
+print("give number:")
+a = int(input())
+print("give another number:")
+b = int(input())
+print(a+b)
