@@ -7,6 +7,7 @@
 # Project Description: See the README file
 #############################################
 
+
 print("What is the first team name?")
 team1 = input()
 print("How many wins did they get?")
