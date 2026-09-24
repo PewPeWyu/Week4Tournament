@@ -71,4 +71,10 @@ elif team2_points > team1_points and team2_points > team3_points and team2_point
     print(team2, " is the winner")
 elif team3_points > team1_points and team3_points > team2_points and team3_points > team4_points and team3_points > team5_points and team3_points > team6_points:
     print(team3, "is the winner")
-    
+elif team4_points > team1_points and team4_points > team2_points and team4_points > team3_points and team4_points > team5_points and team4_points > team6_points:
+    print(team4, "is the winner")
+elif team5_points > team1_points and team5_points > team2_points and team5_points > team3_points and team5_points > team4_points and team5_points > team6_points:
+    print(team5, "is the winner")
+elif team6_points > team1_points and team6_points > team2_points and team6_points > team3_points and team6_points > team4_points and team6_points > team5_points:
+    print(team6, "is the winner")
+
